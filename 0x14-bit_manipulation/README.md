@@ -1,0 +1,2 @@
+Bitwise Manipulation got easier
+
