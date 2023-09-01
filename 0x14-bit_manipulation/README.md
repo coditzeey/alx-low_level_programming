@@ -1,2 +1,2 @@
-Bitwise Manipulation got easier
+Bit Manipulation number 0x14 task
 
