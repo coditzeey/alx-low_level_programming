@@ -5,7 +5,7 @@
 /**
  * binary_to_uint - Entry point
  * @y: const char
- * Return: 0
+ * Return: (0)
  */
 unsigned int binary_to_uint(const char *y)
 {
