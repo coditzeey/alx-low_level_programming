@@ -1,2 +1,4 @@
 # alx-low_level_programming
-Writing my first program in C programming language 
+# doing hard things
+Writing my first program in C programming language
+C is fun 
